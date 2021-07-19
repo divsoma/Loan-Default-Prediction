@@ -13,7 +13,7 @@ From the distplot it is evident that the distribution of Bank Balance is normal 
 After running a logistic Regression model , The accuracy score was 96.2% which implies 96.2% of the times our model was able to correctly predict if a person would default or no.
 The recall rate is 100% ie. True Positive rate is 100% indicating that our model correctly predicts that a person has defaulted on the loans when he has actually defaulted.
 The Precision rate  is 96%.
-Thus are model does a descent job in identifying the people who have a greater probability of Default.
+Thus our model does a descent job in identifying the people who have a greater probability of Default.
 
 
 
